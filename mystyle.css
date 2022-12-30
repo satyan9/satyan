@@ -1,0 +1,25 @@
+
+
+body {
+    background-image: url("");
+    opacity: 0.7;
+    border-style: inset;
+    border-color: black;
+    margin: 100px ;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+
+
+
+}
+.button {
+    background-color: chartreuse;
+    color: azure;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+    cursor: pointer;
+}
+
